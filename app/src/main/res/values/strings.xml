@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StrangerLinkk</string>
+    <string name="todo">TODO</string>
+    <string name="amrita_banerjee">Amrita Banerjee</string>
+    <string name="delhi_india">Delhi, India</string>
+    <string name="your_coins">Your Coins</string>
+    <string name="_100">100</string>
+    <string name="_200_coins">200 Coins</string>
+    <string name="_300_coins">300 Coins</string>
+    <string name="_400_coins">400 Coins</string>
+    <string name="_500_coins">500 Coins</string>
+    <string name="_1000_coins">1000 Coins</string>
+    <string name="in_order_to_match_with_random_people_and_make_friends_watch_videos_to_get_coins">In order to match with random people and make friends, watch videos to get coins.</string>
+    <string name="wallet">WALLET</string>
+</resources>
